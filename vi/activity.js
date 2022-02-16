@@ -26,6 +26,8 @@ export const activityVi = {
 	"For each friend invited,you will have an additional chance to draw": "Đối với mỗi người bạn được mời, bạn sẽ có thêm cơ hội rút thăm",
 	"To Invite": "Mời",
 	"Luck over 99% of users": "May mắn hơn 99% người dùng",
+	"Luck over":'May mắn hơn',
+	"of users":'người dùng',
 	"DOWNLOAD APP": "TẢI ỨNG DỤNG",
 	"Get more cash&withdraw": "Nhận nhiều tiền mặt và rút tiền",
 	"win more ruppes&withdraw": "giành được nhiều ruppes hơn và rút tiền",

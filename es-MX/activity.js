@@ -140,6 +140,8 @@ export const activityEs = {
 	"For each friend invited,you will have an additional chance to draw": "Por cada amigo invitado, tendrás una oportunidad adicional de dibujar",
 	"To Invite": "Invitar",
 	"Luck over 99% of users": "Suerte sobre el 99% de los usuarios",
+	"Luck over":'Suerte sobre el',
+	"of users":'de los usuarios',
 	"DOWNLOAD APP": "DESCARGAR APLICACIÓN",
 	"Get more cash&withdraw": "Obtén más efectivo y retira",
 	"win more ruppes&withdraw": "gana más rupias y retira",

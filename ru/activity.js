@@ -140,6 +140,8 @@ export const activityRu = {
 	"For each friend invited,you will have an additional chance to draw": "За каждого приглашенного друга у вас будет дополнительный шанс розыгрыша",
 	"To Invite": "Пригласить",
 	"Luck over 99% of users": "Удача более 99% пользователей",
+	"Luck over":'Удача более',
+	"of users":'пользователей',
 	"DOWNLOAD APP": "СКАЧАТЬ ПРИЛОЖЕНИЕ",
 	"Get more cash&withdraw": "Получить больше наличных и снять",
 	"win more ruppes&withdraw": "выиграть больше рупий и снять деньги",

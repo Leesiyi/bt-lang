@@ -163,6 +163,8 @@ export const activityPt = {
 	"For each friend invited,you will have an additional chance to draw": "Para cada amigo convidado, você terá uma chance adicional de sortear",
 	"To Invite": "Convidar",
 	"Luck over 99% of users": "Sorte de mais de 99% dos usuários",
+    "Luck over":'Sorte de mais de',
+	"of users":'dos usuários',
 	"DOWNLOAD APP": "BAIXAR APLICATIVO",
 	"Get more cash&withdraw": "Obtenha mais dinheiro e saque",
 	"win more ruppes&withdraw": "ganhe mais ruppes e retire",

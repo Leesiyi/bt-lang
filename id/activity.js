@@ -140,6 +140,8 @@ export const activityId = {
 	"For each friend invited,you will have an additional chance to draw": "Untuk setiap teman yang diundang, Anda akan memiliki kesempatan tambahan untuk menggambar",
 	"To Invite": "Untuk mengundang",
 	"Luck over 99% of users": "Keberuntungan lebih dari 99% pengguna",
+	"Luck over":'Keberuntungan lebih dari',
+	"of users":'pengguna',
 	"DOWNLOAD APP": "UNDUH APLIKASI",
 	"Get more cash&withdraw": "Dapatkan lebih banyak uang tunai & tarik",
 	"win more ruppes&withdraw": "menangkan lebih banyak ruppe & tarik",

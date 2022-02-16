@@ -26,6 +26,8 @@ export const activityDe = {
 	"For each friend invited,you will have an additional chance to draw": "Für jeden eingeladenen Freund haben Sie eine zusätzliche Chance zu ziehen",
 	"To Invite": "Einladen",
 	"Luck over 99% of users": "Glück über 99% der Benutzer",
+	"Luck over":'Glück über',
+	"of users":'der Benutzer',
 	"DOWNLOAD APP": "LADE APP HERUNTER",
 	"Get more cash&withdraw": "Holen Sie sich mehr Geld und heben Sie ab",
 	"win more ruppes&withdraw": "Gewinnen Sie mehr Rupes und ziehen Sie sich zurück",
