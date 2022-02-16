@@ -147,5 +147,6 @@ export const activityEs = {
 	"win more ruppes&withdraw": "gana más rupias y retira",
 	"successfully withdrew": "se retiró con éxito",
 	"Easy Money": "Dinero fácil",
-	"Others": "Otros"
+	"Others": "Otros",
+	'Get':'Obtener'
 }

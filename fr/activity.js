@@ -33,5 +33,6 @@ export const activityFr = {
 	"win more ruppes&withdraw": "gagner plus de ruppes et retirer",
 	"successfully withdrew": "retiré avec succès",
 	"Easy Money": "L'argent facile",
-	"Others": "Autres"
+	"Others": "Autres",
+	'Get':'Avoir'
 }

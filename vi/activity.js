@@ -33,5 +33,6 @@ export const activityVi = {
 	"win more ruppes&withdraw": "giành được nhiều ruppes hơn và rút tiền",
 	"successfully withdrew": "rút tiền thành công",
 	"Easy Money": "Kiếm tiền dễ dàng",
-	"Others": "Khác"
+	"Others": "Khác",
+	'Get':'Đến'
 }

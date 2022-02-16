@@ -147,5 +147,6 @@ export const activityId = {
 	"win more ruppes&withdraw": "menangkan lebih banyak ruppe & tarik",
 	"successfully withdrew": "berhasil mengundurkan diri",
 	"Easy Money": "Uang mudah",
-	"Others": "Yang lain"
+	"Others": "Yang lain",
+	'Get':'Mendapatkan'
 }

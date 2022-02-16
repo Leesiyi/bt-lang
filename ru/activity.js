@@ -147,5 +147,6 @@ export const activityRu = {
 	"win more ruppes&withdraw": "выиграть больше рупий и снять деньги",
 	"successfully withdrew": "успешно отозвал",
 	"Easy Money": "Шальные деньги",
-	"Others": "Другие"
+	"Others": "Другие",
+	'Get':'Получить'
 }
